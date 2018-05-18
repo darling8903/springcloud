@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/twostepsfromjava-cloud-parent/pom.xml" />
+        <option value="$USER_HOME$/eureka-server/pom.xml" />
+        <option value="$USER_HOME$/hello-service/pom.xml" />
+        <option value="$USER_HOME$/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrixdashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-service/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-consumer/pom.xml" />
+        <option value="$USER_HOME$/zuul_server/pom.xml" />
+        <option value="$USER_HOME$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway-dynamic-route/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

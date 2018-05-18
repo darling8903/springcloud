@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway-dynamic-route" />
+        <module name="configrepository" />
+        <module name="eureka-server" />
+        <module name="feign-consumer" />
+        <module name="hello-service" />
+        <module name="hystrixdashboard" />
+        <module name="ribbon-consumer" />
+        <module name="turbine" />
+        <module name="twostepsfromjava-cloud-parent" />
+        <module name="zuul_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway-dynamic-route" target="1.8" />
+      <module name="configrepository" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="hello-service" target="1.8" />
+      <module name="hystrixdashboard" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
+      <module name="turbine" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent" target="1.8" />
+      <module name="zuul_server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
