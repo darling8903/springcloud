@@ -28,6 +28,9 @@ public class HelloController {
         products.add(new User(26L,"sunwukong"));
     }
 
+
+
+    //这什么都不是
     @RequestMapping(value = "/hello/{id}", method = RequestMethod.GET)
     public Object index(@PathVariable("id") Long id){
         System.out.println(id);
